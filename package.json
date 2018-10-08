@@ -5,7 +5,7 @@
     "lint": "stylelint *.css **/*.css && htmllint *.html"
   },
   "dependencies": {
-    "html-tests": "1.0.2",
+    "html-tests": "2.0.0",
     "htmllint-cli-alpha": "0.0.6",
     "mocha": "5.2.0",
     "should": "11.1.0",
